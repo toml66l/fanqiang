@@ -10,7 +10,7 @@
 * 用法：网站内有详细使用方法
 
 **翻墙后好玩儿的东西推荐**
-* 1、telegram上非常火爆的香蕉游戏，8小时收一根香蕉，运气好可得500USDT[游戏链接](https://t.me/OfficialBananaBot/banana?startapp=referral=C4FOJJ6#tt)
+* 1、[游戏链接](https://t.me/OfficialBananaBot/banana?startapp=referral=C4FOJJ6#tt)telegram上非常火爆的香蕉游戏，8小时收一根香蕉，运气好可得500USDT 
 
  
  
