@@ -12,9 +12,6 @@
 * 用法：网站内有详细使用方法
 
 **翻墙后好玩儿的东西推荐**
-* 1、[游戏链接](https://t.me/OfficialBananaBot/banana?startapp=referral=C4FOJJ6#tt) telegram上非常火爆的香蕉游戏，8小时收一根香蕉，运气好可得500USDT
-* 2、[游戏链接](https://t.me/DejenDogBot/djdog?startapp=6f7bcb98#tt) telegram上另外一个狗币游戏，升到40级可以换宝箱，宝箱以后可以换代币，代币是什么就不用我多说了吧😂
-* 3、[链接](https://carv.io/join?code=I7153F#tt) carv 与币安合作的web3项目，在里面玩儿一下游戏可以获取soul，soul以后可以换成代币
-
+*
  
  
