@@ -7,6 +7,6 @@
 * 用法：网站内有详细使用方法
 
 **翻墙后好玩儿的东西推荐**
-* [infinityai](https://app.infinityai.network?ref-code=d6a5459e2bcc0f18) 一个目前很热门的项目，很大概率会空投，趁早赶紧玩儿
+* [infinityai](https://app.infinityai.network?ref-code=d6a5459e2bcc0f18) 一个目前很热门的项目，很大概率会空投（就是给贡献者发钱），趁早赶紧来玩儿
  
  
