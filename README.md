@@ -1,4 +1,4 @@
-# 翻墙/科学上网/飞机场/流量不过期不清零,检查点：2024.09.30
+# 翻墙/科学上网/飞机场/流量不过期不清零,检查点：2024.10.09
 **下面推荐是我正在用的稳定的飞机场，已经用了快两年了，稳定高速不跑路**
 
  [V2free](https://w1.v2free.cc/auth/register?code=QKu7#tt) 
@@ -7,6 +7,6 @@
 * 用法：网站内有详细使用方法
 
 **翻墙后好玩儿的东西推荐**
-* [infinityai](https://app.infinityai.network?ref-code=d6a5459e2bcc0f18) 一个目前很热门的项目，很大概率会空投（就是给贡献者发钱），趁早赶紧来玩儿
+* [infinityai](https://app.infinityai.network?ref-code=d6a5459e2bcc0f18) 一个目前很热门的项目，很大概率会空投，趁早赶紧来玩儿
  
  
