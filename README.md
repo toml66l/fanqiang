@@ -9,6 +9,7 @@
 
 
  [V2free](https://w1.v2free.cc/auth/register?code=QKu7#tt) 
+ <img width="938" alt="image" src="https://github.com/user-attachments/assets/6cfd0ca1-ea28-4335-9c78-37fbd6298695" />
 * 特点：节点非常多100+，稳定，高速，可4k视频，可chatgpt，本人主用机场已开150G年费
 * 价格：5元5G体验套餐；20元100G/月
 * 支持：全平台 
