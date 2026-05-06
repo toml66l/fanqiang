@@ -12,5 +12,5 @@
 # 稳定AI中转站,支持主流AI模型，价格实惠（页面上的标价$其实是人民币）
  **目前本人在用AI中转站**
  [AI中转站](https://api.vibelearning.top/register?aff=ZowO#tt)
-* 特点：稳定，价格实惠，提供不同倍速扣费档次，codex福利组速率0.15x，codex普通0.23x，claude 0.6-2.3x，可包月
+* 特点：稳定，价格实惠，提供不同倍率扣费档次，codex福利组0.15x，codex普通0.23x，claude 0.6-2.3x，可包月
   
