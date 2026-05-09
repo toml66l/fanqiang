@@ -27,4 +27,4 @@
 **所以找一个中转站充一点钱购买GPT5.4,GPT5.5，再购买一个国内不用抢，量也足，也不算最弱的编码模型，组合开发是最佳选择。**
 
 **这里我推荐国内的Minimax2.7，模型不算目前国内编码最强，但也足够使用了，重点是不用抢，最低29元/月/600次5小时，目前我是够用的**
-<img width="900" height="1200" alt="image" src="https://github.com/user-attachments/assets/a1e88084-9bf5-4274-b2cd-70c062fbde2a" />
+<img width="600" height="900" alt="image" src="https://github.com/user-attachments/assets/a1e88084-9bf5-4274-b2cd-70c062fbde2a" />
