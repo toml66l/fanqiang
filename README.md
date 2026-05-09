@@ -22,3 +22,9 @@
  [AI中转站](https://api.vibelearning.top/register?aff=ZowO#tt)
 * 特点：稳定，价格实惠，提供不同倍率扣费档次，codex福利组0.15x，codex普通0.23x，claude 0.6-2.3x，可包月
   
+**现在token价格对于普通开发者来说还是太贵，如果开发全程使用GPT5.5等模型，对于我这种上班族来说是难以承受的。所以最佳实践是：用强模型做详细规划，用弱模型撸具体代码和修改bug.**
+
+**所以找一个中转站充一点钱购买GPT5.4,GPT5.5，再购买一个国内不用抢，量也足，也不算最弱的编码模型，组合开发是最佳选择。**
+
+**这里我推荐国内的Minimax2.7，模型不算目前国内编码最强，但也足够使用了，重点是不用抢，最低29元/月/600次5小时，目前我是够用的**
+<img width="900" height="1200" alt="image" src="https://github.com/user-attachments/assets/a1e88084-9bf5-4274-b2cd-70c062fbde2a" />
