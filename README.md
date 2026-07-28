@@ -1,4 +1,4 @@
-# 翻墙/科学上网/飞机场/vpn/不清零,检查点：2026.7.27
+# 翻墙/科学上网/飞机场/vpn/不清零,检查点：2026.7.28
 **下面都是我自己正在用的飞机场，定期检查连接是否可用**
  
  [魔戒1（不清零）](https://47.112.97.173:5000/#/register?code=1pWspTHg#tt)  [魔戒2（不清零）](https://47.242.128.61:5000/#/register?code=1pWspTHg#tt)  [魔戒3（不清零）](https://mojie.app/#/register?code=1pWspTHg#tt)
