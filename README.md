@@ -1,4 +1,4 @@
-# 翻墙/科学上网/飞机场/vpn/不清零,检查点：2026.7.30
+# 翻墙/科学上网/飞机场/vpn/不清零,检查点：2026.7.31
 **下面都是我自己正在用的飞机场，定期检查连接是否可用**
  
  [魔戒1（不清零）](https://47.112.97.173:5000/#/register?code=1pWspTHg#tt) &ensp; [魔戒2（不清零）](https://47.242.128.61:5000/#/register?code=1pWspTHg#tt) &ensp; [魔戒3（不清零）](https://47.242.128.61:5000/#/register?code=1pWspTHg#tt) &ensp; [魔戒4（不清零）](https://43.129.78.33:5000/#/register?code=1pWspTHg#tt)
@@ -9,7 +9,6 @@
 * 用法：网站内有详细使用方法
 * 说明：使用对应运营商节点网速度更快，在 首页->节点状态 中查看
 <br />
-
 
  [KTM1（大流量）](https://ktm001.pro/#/register?code=sdUS9yvK#tt) &ensp; [KTM2（大流量）](https://ktm.ooo/#/register?code=sdUS9yvK#tt) &ensp; [KTM3（大流量）](https://url.kutumu.top/#/register?code=sdUS9yvK#tt)
  #### 上面都也是同一个机场，打开哪个算哪个 
@@ -22,7 +21,7 @@
  [v2free（节点多稳定）](https://w1.soxo.top/auth/register?code=QKu7#tt) 
 * 特点：稳定，高速，节点非常多；缺点：略贵，给急需的朋友多一个应急选项 
 * 价格：20元/月/100G，39元/月/200G
-* 支持：全平台
+* 支持：全平台 
 * 用法：网站内有详细使用方法
 <br />
 
