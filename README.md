@@ -11,7 +11,7 @@
 <br />
 
  [KTM（大流量）](https://kutumu.top/#/register?code=sdUS9yvK#tt) &ensp; [KTM（大流量）](https://kutumu.cc/#/register?code=sdUS9yvK#tt) 
- #### 原来是订阅加密了，还有我的shadowrocket没升级，目前测试这机场速度很快
+ #### 原来是订阅加密了，还有我的shadowrocket没升级，具体操作参考站内说明，升级最新软件，目前测试这机场速度很快
 * 特点：稳定，高速，可4k视频，可chatgpt，量大，下载东西快，我家里下载能到20m/s，适合做开发的朋友用，这也是我现在主要使用的机场，机场同样有不清零套餐，就是有点儿贵不划算
 * 价格：13.98元/月/1024G月，20.97元/季/500G月
 * 支持：全平台
