@@ -18,9 +18,7 @@
 * 用法：网站内有详细使用方法
 <br />
 
-
- [v2free（节点多稳定）](https://w1.soxo.top/auth/register?code=QKu7#tt) 
- 
+[v2free（节点多稳定）](https://w1.soxo.top/auth/register?code=QKu7#tt) 
 * 特点：稳定，高速，节点非常多；缺点：略贵，给急需的朋友多一个应急选项
 * 价格：20元/月/100G，39元/月/200G
 * 支持： 全平台
