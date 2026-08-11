@@ -1,7 +1,7 @@
 # 翻墙/科学上网/飞机场/vpn/不清零/不过期,检查点：2026.8.11
 **下面都是我自己在用的机场，定期检查连接是否可用**
 
-[魔戒1（不清零）](https://43.129.78.33:8000/register?aff=1pWspTHg#tt)  &ensp; [魔戒2（不清零）](https://47.242.128.61:8000/register?aff=1pWspTHg#tt)  &ensp; [魔戒3（不清零）](https://mojie.app/register?aff=1pWspTHg#tt) &ensp; [魔戒4（不清零）](http://mojie.host/register?aff=1pWspTHg#tt)  &ensp; [魔戒4（不清零）](https://mojie.co/register?aff=1pWspTHg#tt) 
+[魔戒1（不清零）](https://43.129.78.33:8000/register?aff=1pWspTHg#tt)  &ensp; [魔戒2（不清零）](https://47.242.128.61:8000/register?aff=1pWspTHg#tt)  &ensp; [魔戒3（不清零）](https://mojie.app/register?aff=1pWspTHg#tt) &ensp; [魔戒4（不清零）](http://mojie.host/register?aff=1pWspTHg#tt)  &ensp; [魔戒5（不清零）](https://mojie.co/register?aff=1pWspTHg#tt) 
  #### 上面都是同一个机场，打开哪个算哪个
 * 特点：稳定，高速，可4k视频，可chatgpt，主要是流量不清零，永久有效，应该是不清零机场中性价比最高的
 * 价格：19.9元130G 不清零
