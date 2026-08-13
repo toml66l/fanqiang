@@ -1,4 +1,4 @@
-# 翻墙/科学上网/飞机场/vpn/不清零/不过期,更新：2026.8.12
+# 翻墙/科学上网/飞机场/vpn/不清零/不过期,更新：2026.8.13
 **下面都是我自己在用的机场，定期检查连接是否可用**
 
 [魔戒1（不清零）](https://43.129.78.33:8000/register?aff=1pWspTHg#tt)  &ensp; [魔戒2（不清零）](https://47.242.128.61:8000/register?aff=1pWspTHg#tt)  &ensp; [魔戒3（不清零）](https://mojie.app/register?aff=1pWspTHg#tt) &ensp; [魔戒4（不清零）](http://mojie.host/register?aff=1pWspTHg#tt)  &ensp; [魔戒5（不清零）](https://mojie.co/register?aff=1pWspTHg#tt) 
@@ -10,13 +10,12 @@
 * 说明：使用对应运营商节点网速度更快，在 首页->节点状态 中查看
 <br />
 
-
 [KTM1（大流量）](https://kutumu.top/#/register?code=sdUS9yvK#tt) &ensp; [KTM2（大流量）](https://kutumu.cc/#/register?code=sdUS9yvK#tt)  &ensp; [KTM3（大流量）](https://kutumu.one/#/register?code=sdUS9yvK#tt) 
  #### 升级最新软件
 * 特点：稳定，高速，可4k视频，可chatgpt，量大，下载东西快，我家里下载能到20m/s，适合做开发的朋友用，这也是我现在主要使用的机场，机场同样有不清零套餐，就是有点儿贵不划算
 * 价格：13.98元/月/1024G月，20.97元/季/500G月
 * 支持：全平台
-* 用法：网站内有详细使用方法1
+* 用法：网站内有详细使用方法
 <br />
 
 [v2free（节点多稳定）](https://w1.soxo.top/auth/register?code=QKu7#tt) 
