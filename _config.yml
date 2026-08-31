@@ -3,8 +3,17 @@ title: "2026最新机场推荐,自用精选机场,不清零机场,小火箭,clas
 tagline: ""
 description: "自用精选机场推荐,Clash与Shadowrocket小火箭专属高速优质机场,包含全网少有的大流量按量付费、不清零、超多节点、无审计机场推荐，以及自用中转站等其他优惠或者免费资源推荐"
 
-# 如果你使用的是 Cayman, Mermaid 等主题，有些主题支持直接关闭头部
-show_downloads: false
-# 👇 核心：关闭“从正文标题抓取Title”的功能
-titles_from_headings:
-  enabled: false
+# ========== 插件清单（Bing必备：seo‑tag生成meta；sitemap输出sitemap.xml） ==========
+plugins:
+  - jekyll‑seo‑tag
+  - jekyll‑sitemap
+  - jekyll‑feed
+
+# ========== jekyll‑seo‑tag高级，Bing友好配置 ==========
+seo_tag:
+  title: true
+  description: true
+  canonical_url: true       # Bing非常看重canonical，避免重复URL判定
+  open_graph: true
+  twitter_card: true
+  json_ld: true             # 结构化数据，Bing Copilot AI摘要会读取schema数据
