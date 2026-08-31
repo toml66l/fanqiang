@@ -4,3 +4,6 @@ description: "自用精选机场推荐,Clash与Shadowrocket小火箭专属高速
 
 # 如果你使用的是 Cayman, Mermaid 等主题，有些主题支持直接关闭头部
 show_downloads: false
+# 👇 核心：关闭“从正文标题抓取Title”的功能
+titles_from_headings:
+  enabled: false
