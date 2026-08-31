@@ -8,15 +8,7 @@ titles_from_headings:
 
 # ========== 插件清单（Bing必备：seo‑tag生成meta；sitemap输出sitemap.xml） ==========
 plugins:
-  - jekyll‑seo‑tag
-  - jekyll‑sitemap
-  - jekyll‑feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
 
-# ========== jekyll‑seo‑tag高级，Bing友好配置 ==========
-seo_tag:
-  title: true
-  description: true
-  canonical_url: true
-  open_graph: true
-  twitter_card: true
-  json_ld: true
