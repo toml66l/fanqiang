@@ -1,1 +1,6 @@
+# 不要为整个网站生成大标题
+title: ""
+description: ""
 
+# 如果你使用的是 Cayman, Mermaid 等主题，有些主题支持直接关闭头部
+show_downloads: false
