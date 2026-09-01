@@ -25,19 +25,23 @@
 * 用法：网站内有详细使用方法
 <br />
 
+---
+
 ## 稳定AI中转站,支持主流AI模型，价格实惠（页面上的标价$其实是人民币）
  **目前本人在用AI中转站**
  [AI中转站](https://api.vibelearning.top/register?aff=ZowO#tt)
-* 特点：稳定，价格实惠，提供不同倍率扣费档次，目前还比较便宜，可包月（我个人包了一月觉得不太划算扣费是按照1倍率扣，一天用不完就过期了），价格根据行情改会变
-  
+* 特点：稳定，价格实惠，提供不同倍率扣费档次，目前还比较便宜，可包月（我个人包了一月觉得不太划算扣费是按照1倍率扣，一天用不完就过期了），价格根据行情改会变  
 <br />
+
+---
 
 ## [新开中转站](https://api.justwoker.icu/register?aff=amCH)，目前注册送100，每日上线送20，模型有claude-opus-5，免费中转站，抓紧薅
 <br />
 刚开张的中转站，文档不全，注册后添加apikey后，在这里可以找到ccswitch的配置，直接复制
 <img width="3306" height="260" alt="image" src="https://github.com/user-attachments/assets/9df2ecf3-4095-4f1e-a34e-300788de094f" />
-
 <br />
+
+---
 
 ## [免费deepseek-v4-flash](https://chat.b.ai/chat?invite_code=GSVHB4)，润出去后进这个网站，有免费deepseek-v4-flash，glm-5.3-flash,qwen-3.8-flash,hy3,mino2.5，目前均免费，但是必须开tun模式（clash-verge:[设置]->[虚拟网卡模式]）
 <br />
