@@ -10,7 +10,8 @@
 * 说明：使用对应运营商节点网速度更快，在 首页->节点状态 中查看
 <br />
 
- [KTM（大流量）](https://kutumu.one/#/register?code=sdUS9yvK#tt) 
+ [KTM（大流量）](https://ktmcloud001.top/#/register?code=VzxJf1YX#tt) 
+ #### 老用户需要更新订阅
 * 特点：量大，下载东西快，我家里下载能到20m/s，适合做开发的朋友用
 * 价格：13.98元/月/1024G月，20.97元/季/500G月
 * 支持：全平台
