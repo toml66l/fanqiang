@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /fanqiang/robots.txt
+permalink: /robots.txt
 ---
 
 User-agent: *
