@@ -43,5 +43,4 @@
 
 ---
 
-## [免费deepseek-v4-flash](https://chat.b.ai/chat?invite_code=GSVHB4)，润出去后进这个网站，有免费deepseek-v4-flash，glm-5.3-flash,qwen-3.8-flash,hy3,mino2.5，目前均免费，但是必须开tun模式（clash-verge:[设置]->[虚拟网卡模式]）
-<br />
+
