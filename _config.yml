@@ -15,4 +15,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
-include: ["robots.txt"]
+exclude:
+  - "google3eb1991a537bb8c4.html"
