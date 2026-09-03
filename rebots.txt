@@ -6,11 +6,4 @@ permalink: /robots.txt
 User-agent: *
 Allow: /
 
-User-agent: Baiduspider
-Allow: /
-Disallow: /docs/
-
-User-agent: Bingbot
-Allow: /
-
-Sitemap: https://toml66l.github.io/fanqiang/sitemap.xml
+Sitemap: https://906202.xyz/sitemap.xml
