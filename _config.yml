@@ -2,18 +2,12 @@
 title: "2026自用精选科学上网机场推荐"
 tagline: "优质高速翻墙VPN中转站"
 description: "2026年最新自用优质机场推荐。精选全网少有的大流量按量付费、流量不清零、超多节点、无审计机场，适配Clash与小火箭，以及自用中转站等其他优惠或免费资源推荐。"
+lang: "zh-CN"
 
-url: "https://toml66l.github.io"
-baseurl: "/fanqiang/" 
+url: "https://987666.xyz"
+baseurl: "" 
 
 titles_from_headings:
   enabled: false
 
-# ========== 插件清单（Bing必备：seo‑tag生成meta；sitemap输出sitemap.xml） ==========
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
 
-exclude:
-  - "google3eb1991a537bb8c4.html"
