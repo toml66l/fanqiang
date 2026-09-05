@@ -1,5 +1,5 @@
 
-## 以下是本人长期自用精选的 2026 高速稳定的网络加速工具与 AI 中转服务
+## 一、 以下是本人长期自用精选的 2026 高速稳定的网络加速工具与 AI 中转服务
 **定期检查连接是否可用，更新：2026.9.5**
  
  [魔戒（不清零）](https://47.242.128.61:8000/register?aff=1pWspTHg#tt)  &ensp;   [魔戒（不清零）](https://43.129.78.33:8000/register?aff=1pWspTHg#tt) 
@@ -27,15 +27,14 @@
 
 ---
 
-## 稳定AI中转站,支持主流AI模型，价格实惠（页面上的标价$其实是人民币）
+## 二、[稳定AI中转站](https://api.vibelearning.top/register?aff=ZowO#tt),支持主流AI模型，价格实惠（页面上的标价$其实是人民币）
  **目前本人在用AI中转站**
- [AI中转站](https://api.vibelearning.top/register?aff=ZowO#tt)
 * 特点：稳定，价格实惠，提供不同倍率扣费档次，目前还比较便宜，可包月（我个人包了一月觉得不太划算扣费是按照1倍率扣，一天用不完就过期了），价格根据行情改会变  
 <br />
 
 ---
 
-## [新开中转站](https://api.justwoker.icu/register?aff=amCH)，目前注册(只能github授权注册)送100，每日上线送20，模型有claude-opus-5，免费中转站，目前还能薅，能薅抓紧薅
+## 三、[新开中转站](https://api.justwoker.icu/register?aff=amCH)，目前注册(只能github授权注册)送100，每日上线送20，模型有claude-opus-5，免费中转站，目前还能薅，能薅抓紧薅
 <br />
 刚开张的中转站，文档不全，注册后添加apikey后，在这里可以找到ccswitch的配置，直接复制
 <img width="3306" height="260" alt="image" src="https://github.com/user-attachments/assets/9df2ecf3-4095-4f1e-a34e-300788de094f" />
