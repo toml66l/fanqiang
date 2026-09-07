@@ -9,7 +9,7 @@
 > 
 > 其实只要你的电脑能正常翻墙，就能轻松打破这个僵局。以下是一篇最通俗易懂的图文解决方案：
 > 
-> 👉 **[点击查看：2026 苹果手机免 Shadowrocket 翻墙攻略](https://airforceone.top)**
+> 👉 **[点击查看：2026 苹果手机免 Shadowrocket 翻墙攻略](https://airforceone.top/clash_allow_lan.html)**
 
 ## 一、自用机场，不清零，大流量，节点多三种类型，已稳定使用3年+
  [魔戒（不清零）](https://47.242.128.61:8000/register?aff=1pWspTHg#tt)  &ensp;   [魔戒（不清零）](https://43.129.78.33:8000/register?aff=1pWspTHg#tt) 
