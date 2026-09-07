@@ -43,7 +43,7 @@
 <br />
 
 ---
-
+<!--
 ## 三、[新开中转站](https://api.justwoker.icu/register?aff=amCH)，目前注册(只能github授权注册)送100，每日上线送20，模型有claude-opus-5，免费中转站，目前还能薅，能薅抓紧薅
 <br />
 刚开张的中转站，文档不全，注册后添加apikey后，在这里可以找到ccswitch的配置，直接复制
@@ -52,4 +52,4 @@
 
 ---
 
-
+-->
