@@ -8,8 +8,7 @@
 > 刚使用 iPhone 的朋友可能会发现，国内 App Store 无法直接下载 Shadowrocket（小火箭），陷入“手机翻墙需要下小火箭，但下载小火箭又必须先翻墙”的尴尬死循环？
 > 
 > 其实只要你的电脑能正常翻墙，就能轻松打破这个僵局。以下是一篇最通俗易懂的图文解决方案：
-> 👉 **<a href="https://airforceone.top/" target="_blank" rel="noopener noreferrer">点击查看：2026 苹果手机免 Shadowrocket 翻墙攻略</a>**
-
+> 👉 **[点击查看：2026 苹果手机免 Shadowrocket 翻墙攻略](https://airforceone.top)
 
 ## 一、自用机场，不清零，大流量，节点多三种类型，已稳定使用3年+
  [魔戒（不清零）](https://47.242.128.61:8000/register?aff=1pWspTHg#tt)  &ensp;   [魔戒（不清零）](https://43.129.78.33:8000/register?aff=1pWspTHg#tt) 
