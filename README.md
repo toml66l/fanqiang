@@ -1,8 +1,6 @@
 # 2026最新自用稳定机场推荐非广
-## 本人自用精选机场推荐，不清零、大流量、多节点三种选择，完美支持Clash、小火箭(Shadowrocket)、FLclash等多种科学上网客户端，桌面端推荐最新的[clash-verge](https://github.com/clash-verge-rev/clash-verge-rev)。并有新手配置教程与技术指南。
-**定期检查连接是否可用，更新：2026.9.11**
-
-<br />
+## 本人自用精选机场推荐，不清零、大流量、多节点三种选择，完美支持Clash、小火箭(Shadowrocket)、FLclash等多种科学上网客户端，桌面端推荐最新的[clash-verge](https://github.com/clash-verge-rev/clash-verge-rev)。并有新手配置教程与技术指南。定期检查连接是否可用
+## 更新：2026.9.11
 
 > 📢 **iOS 用户新手教程与避坑指南：**
 > 
