@@ -1,14 +1,12 @@
-# 2026最新自用稳定机场推荐非广
-## 本人自用精选机场推荐，不清零、大流量、多节点三种选择，完美支持Clash、小火箭(Shadowrocket)、FLclash等多种科学上网客户端，桌面端推荐最新的[clash-verge](https://github.com/clash-verge-rev/clash-verge-rev)。并有新手配置教程与技术指南。定期检查连接是否可用
-## 更新：2026.9.11
+# 2026本人自用最新稳定机场推荐
 
-> 📢 **iOS 用户新手教程与避坑指南：**
-> 
-> 刚使用 iPhone 的朋友可能会发现，国内 App Store 无法直接下载 Shadowrocket（小火箭），陷入“手机翻墙需要下小火箭，但下载小火箭又必须先翻墙”的尴尬死循环？
-> 
-> 其实只要你的电脑能正常翻墙，就能轻松打破这个僵局。以下是一篇最通俗易懂的图文解决方案：
-> 
-> 👉 **[点击查看：2026 苹果手机免 Shadowrocket 翻墙攻略](https://airforceone.top/clash_allow_lan.html)**
+## 🔎 2026 翻墙必看，更新：2026.9.11
+如果你正在寻找最适合自己的科学上网工具，以下是 2026 年本人自用的机场，不清零、大流量、多节点三种类型，支持Clash、小火箭(Shadowrocket)、FLclash等多种科学上网客户端和常用操作系统，桌面端推荐最新的[clash-verge](https://github.com/clash-verge-rev/clash-verge-rev)，支持windows，mac，linux。并有新手配置教程与技术指南。定期检查连接是否可用：
+* **最新推荐与备用机场首选**：[魔戒（不清零）](https://47.242.128.61:8000/register?aff=1pWspTHg#tt)  &ensp;   [魔戒（不清零）](https://43.129.78.33:8000/register?aff=1pWspTHg#tt)  —— 采用最新的 Hysteria2 协议，流量永久不清零，用多少扣多少，是 2026 年防封锁与技术流最爱的**最新机场推荐**。
+* **高性价比机场推荐首选**： [KTM（大流量）](https://ktmcloud001.top/#/register?code=VzxJf1YX#tt)  —— 每月不到 14 元即可享受 1024G 超大流量，量大管饱，是重度视频用户与多设备党必看的**高性价比机场推荐**。
+* **稳定机场推荐首选**：[v2free（节点多稳定）](https://w1.soxo.top/auth/register?code=QKu7#tt)  —— 拥有全球 100+ 节点覆盖，原生 IP 丰富，是追求“连线不中断、低延迟”用户首选的**稳定机场推荐**方案。
+
+---
 
 ## 一、自用机场，不清零，大流量，节点多三种类型，已稳定使用3年+
  [魔戒（不清零）](https://47.242.128.61:8000/register?aff=1pWspTHg#tt)  &ensp;   [魔戒（不清零）](https://43.129.78.33:8000/register?aff=1pWspTHg#tt) 
@@ -41,3 +39,10 @@
 刚开张的中转站，文档不全，注册后添加apikey后，在这里可以找到ccswitch的配置，直接复制
 <img width="3306" height="260" alt="image" src="https://github.com/user-attachments/assets/9df2ecf3-4095-4f1e-a34e-300788de094f" />
 
+## 📢 **iOS 用户新手教程与避坑指南：**
+> 
+> 刚使用 iPhone 的朋友可能会发现，国内 App Store 无法直接下载 Shadowrocket（小火箭），陷入“手机翻墙需要下小火箭，但下载小火箭又必须先翻墙”的尴尬死循环？
+> 
+> 其实只要你的电脑能正常翻墙，就能轻松打破这个僵局。以下是一篇最通俗易懂的图文解决方案：
+> 
+> 👉 **[点击查看：2026 苹果手机免 Shadowrocket 翻墙攻略](https://airforceone.top/clash_allow_lan.html)**
