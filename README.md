@@ -35,9 +35,10 @@
 * 特点：稳定，价格实惠，提供不同倍率扣费档次，目前还比较便宜，可包月（我个人包了一月觉得不太划算扣费是按照1倍率扣，一天用不完就过期了），价格根据行情改会变  
 ---
 
+<!-- 
 ## 三、[新开中转站](https://api.justwoker.icu/register?aff=amCH)，免费中转站，目前注册(只能github授权注册)送100，每日上线送20，模型换成GPT5.6了，继续薅。。。
 <br />
 刚开张的中转站，文档不全，注册后添加apikey后，在这里可以找到ccswitch的配置，直接复制
 <img width="3306" height="260" alt="image" src="https://github.com/user-attachments/assets/9df2ecf3-4095-4f1e-a34e-300788de094f" />
 
-
+-->
