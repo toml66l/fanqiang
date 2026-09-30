@@ -1,0 +1,22 @@
+name: IndexNow 每日定時提交
+
+on:
+  schedule:
+    # 這裡使用國際標準時間 (UTC)。例如：每天台灣時間早上 7:00 執行 (UTC 23:00)
+    - cron: '0 23 * * *'
+  workflow_dispatch: # 允許你隨時手動點擊按鈕觸發執行
+
+jobs:
+  indexnow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 執行 IndexNow 提交
+        uses: bojieyang/indexnow-action@v3
+        with:
+          sitemap-location: 'https://906202.xyz/sitemap.xml'
+          key: ${{ secrets.INDEXNOW_KEY }}
+          
+          # 【進階參數設定】
+          # since: 1 搭配 since-unit: day，代表只提交過去 24 小時內有修改（lastmod）的網址
+          since: 1
+          since-unit: 'day'
