@@ -4,10 +4,27 @@ tagline: "优质高速翻墙VPN中转站"
 description: "2026年最新自用优质机场推荐。精选全网少有的大流量按量付费、流量不清零、超多节点、无审计机场，适配Clash与小火箭，以及自用中转站等其他优惠或免费资源推荐。"
 lang: "zh-CN"
 
-url: "https://987666.xyz"
+# 告訴 GitHub Pages，首頁的實體檔案由 README.md 來生成
+permalink: /index.html
+
+# 保持您原本的 Markdown 渲染機制
+markdown: kramdown
+
+url: "https://906202.xyz/index.html"
 baseurl: "" 
 
-titles_from_headings:
-  enabled: false
+# 1. 启用自动处理标题的插件
+plugins:
+  - jekyll-titles-from-headings
 
+# 2. 更改为开启状态，并设置剥离正文中的首个 h1
+titles_from_headings:
+  enabled: true
+  strip_title: true
+# 🌟 新增下方這段核心配置：強制讓首頁套用預設的主題排版
+defaults:
+  - scope:
+      path: "" # 代表全站，包含自動生成的 index.html
+    values:
+      layout: "default" # 套用主題的預設寬度居中樣式
 
