@@ -4,9 +4,6 @@ tagline: "优质高速翻墙VPN中转站"
 description: "2026年最新自用优质机场推荐。精选全网少有的大流量按量付费、流量不清零、超多节点、无审计机场，适配Clash与小火箭，以及自用中转站等其他优惠或免费资源推荐。"
 lang: "zh-CN"
 
-# 告訴 GitHub Pages，首頁的實體檔案由 README.md 來生成
-permalink: /index.html
-
 # 保持您原本的 Markdown 渲染機制
 markdown: kramdown
 
