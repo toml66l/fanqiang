@@ -13,7 +13,7 @@ jobs:
       - name: 執行 IndexNow 提交
         uses: bojieyang/indexnow-action@v3
         with:
-          sitemap-location: 'https://ladderer.win/sitemap.xml'
+          sitemap-location: 'https://906202.xyz/sitemap.xml'
           key: ${{ secrets.INDEXNOW_KEY }}
           
           # 【進階參數設定】
