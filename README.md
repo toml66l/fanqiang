@@ -25,7 +25,7 @@
 * **支持**：Hysteria2 协议，全平台客户端支持，可解锁各大主流媒体。推荐Clash-verge / Shadowrocket.
 * **用法**：网站内有详细使用方法。三网优化，速度更快更稳
 
-🚀 [v2free（节点多）](https://w1.soxo.top/auth/register?code=QKu7#tt) 
+🚀 [v2free1（节点多）](https://w1.soxo.top/auth/register?code=QKu7#tt) &ensp; [v2free2（节点多）](https://v1.xdollar.top/auth/register/auth/register?code=QKu7#tt) 
 * **特点**：稳定，高速，节点非常多，全球100+高速节点；缺点：略贵，给急需使用机场的朋友推荐的一个应急选项
 * **价格**：20元/月/100G，39元/月/200G，10人共享套餐，1人独享原生IP家宽套餐。
 * **支持**：全平台客户端支持，Vless / Hysteria2 /AnyTLS 协议，解锁 ChatGPT 及各国 Netflix
