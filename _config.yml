@@ -13,6 +13,7 @@ baseurl: ""
 # 1. 启用自动处理标题的插件
 plugins:
   - jekyll-titles-from-headings
+  - jekyll-sitemap               # 加上這一行就搞定了！
 
 # 2. 更改为开启状态，并设置剥离正文中的首个 h1
 titles_from_headings:
