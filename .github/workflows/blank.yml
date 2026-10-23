@@ -19,7 +19,7 @@ jobs:
     steps:
       # 1. 下載專案原始碼（必須設定 fetch-depth: 0 才能讀取到正確的檔案修改日期）
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0 
 
