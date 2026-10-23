@@ -9,6 +9,8 @@ on:
 jobs:
   indexnow:
     runs-on: ubuntu-latest
+    permissions:         # 🌟 確保加上這段權限設定
+      contents: read
     steps:
       - name: 執行 IndexNow 提交
         uses: bojieyang/indexnow-action@v3
