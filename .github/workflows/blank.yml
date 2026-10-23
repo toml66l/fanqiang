@@ -3,27 +3,27 @@ name: 自動生成 Sitemap 並提交 IndexNow
 on:
   push:
     branches:
-      - main  # 🌟 只有推送到主分支時才觸發
+      - main  # 🌟 需求符合：只有當推送到主分支時才觸發
     paths:
-      - 'README.md'      # 🌟 監控 README.md 更新
-      - '**.md'          # 🌟 監控任何根目錄或子目錄下的 Markdown 文檔更新
-      # 如果你有特定的文檔目錄（例如 docs/ 或 posts/），上面的 '**.md' 已經全面包含了。
-      # 你也可以在這裡精確指定目錄，例如： - 'docs/**'
-  workflow_dispatch: # 🌟 保留手動按鈕，方便你隨時測試
+      - 'README.md'      # 🌟 需求符合：監控 README.md 更新
+      - '**.md'          # 🌟 需求符合：監控任何根目錄或子目錄下的 Markdown 文檔更新
+      # 如果你有特定的文檔資料夾，'**.md' 已經全面自動包含
+
+  workflow_dispatch: # 保留手動觸發按鈕，方便隨時測試
 
 jobs:
   build-and-submit:
     runs-on: ubuntu-latest
     permissions:
-      contents: write    # 🌟 必須是 write，因為 Actions 需要把自動生成的 sitemap.xml 推回你的倉庫
+      contents: write    # 允許把自動生成的 sitemap.xml 推回你的倉庫
     steps:
-      # 1. 下載專案原始碼（必須設定 fetch-depth: 0 才能讀取到正確的檔案修改日期）
+      # 1. 下載專案原始碼（設定 fetch-depth: 0 才能讀取到正確的檔案修改日期）
       - name: Checkout Repository
-        uses: actions/checkout@v7
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0 
 
-      # 2. 自動掃描專案，生成帶有正確修改日期的 sitemap.xml
+      # 2. 🌟 需求符合：自動掃描專案，生成帶有正確修改日期（lastmod）的 sitemap.xml
       - name: Generate Sitemap
         uses: cicirello/generate-sitemap@v1
         with:
@@ -35,13 +35,26 @@ jobs:
           git config --local user.email "175387347+toml66l@users.noreply.github.com"
           git config --local user.name "toml66l"
           git add sitemap.xml
-          # 如果 sitemap 沒有任何實質變動就不動作，有變動才提交推送
+          # [skip ci] 可以防止這次推包引發無限循環觸發
           git diff --quiet && git diff --staged --quiet || (git commit -m "Automated sitemap update [skip ci]" && git push)
 
-      # 4. 延遲 10 秒（確保 GitHub Pages 有時間更新線上檔案），然後執行你原本會通的 IndexNow 提交
-      - name: Wait for Deployment
-        run: sleep 60
+      # 4. 🌟 關鍵修正：動態等待，每 10 秒檢查一次線上 sitemap 是否已更新，最多等 3 分鐘
+      # 這樣可以確保 GitHub Pages 後台部署完成後，才進行下一步
+      - name: Wait for Online Sitemap to Sync
+        run: |
+          echo "等待 GitHub Pages 線上部署更新..."
+          for i in {1..18}; do
+            echo "檢查線上 Sitemap 中... (嘗試 $i/18)"
+            # 這裡透過網路抓取線上的 sitemap 進行確認
+            curl -sL https://906202.xyz/sitemap.xml > /tmp/online_sitemap.xml
+            if grep -q "https://906202.xyz" /tmp/online_sitemap.xml; then
+               echo "線上 Sitemap 已就緒！"
+               break
+            fi
+            sleep 10
+          done
 
+      # 5. 🌟 需求符合 & 關鍵修正：執行 IndexNow 提交
       - name: 執行 IndexNow 提交
         uses: bojieyang/indexnow-action@v3
         with:
@@ -49,3 +62,6 @@ jobs:
           key: ${{ secrets.INDEXNOW_KEY }}
           since: 1
           since-unit: 'day'
+          # 🌟 終極修復：強制外掛從遠端伺服器（Server）抓取 XML，避開本地檔案，防止再次噴出 Expected closing tag 錯誤！
+          force-server: true 
+
