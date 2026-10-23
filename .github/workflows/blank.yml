@@ -40,7 +40,7 @@ jobs:
 
       # 4. 延遲 10 秒（確保 GitHub Pages 有時間更新線上檔案），然後執行你原本會通的 IndexNow 提交
       - name: Wait for Deployment
-        run: sleep 10
+        run: sleep 60
 
       - name: 執行 IndexNow 提交
         uses: bojieyang/indexnow-action@v3
