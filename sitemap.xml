@@ -1,3 +1,14 @@
+---
+layout: null
+---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://sitemaps.org">
+  {% for page in site.pages %}
+    {% if page.url contains '.html' or page.url == '/' %}
+    <url>
+      <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
+      <lastmod>{{ page.last_modified_at | default: site.time | date_to_xmlschema }}</lastmod>
+    </url>
+    {% endif %}
+  {% endfor %}
 </urlset>
