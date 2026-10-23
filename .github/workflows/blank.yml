@@ -47,4 +47,3 @@ jobs:
           key: ${{ secrets.INDEXNOW_KEY }}
           since: 1
           since-unit: 'day'
-          force-server: true # 強制走網路抓取，避開本地檔案，防止格式報錯
