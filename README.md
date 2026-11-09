@@ -1,6 +1,5 @@
 # 自用最新稳定机场推荐
 ### 最后检查日期：2026.11.09
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=toml66l.fanqiang)
 
 #### 项目入口：[入口](https://github.com/toml66l/fanqiang) &ensp; [翻墙扫盲](https://ladderer.win/)
 
