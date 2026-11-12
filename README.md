@@ -26,7 +26,7 @@
 * **支持**：Hysteria2 协议，全平台客户端支持，可解锁各大主流媒体。推荐Clash-verge / Shadowrocket.
 * **用法**：网站内有详细使用方法。三网优化，速度更快更稳
 
-🚀 [v2free1（节点多）](https://w1.soxo.top/auth/register?code=QKu7#tt) 
+🚀 [v2free1（节点多）](https://w1.soxo.top/auth/register?code=QKu7#tt) &ensp; [v2free2（节点多）](https://w2.xmoney.top/auth/register?code=QKu7#tt) &ensp; [v2free3（节点多）](https://w1.xmoney.top/auth/register?code=QKu7#tt)  &ensp; [v2free4（节点多）](https://cdn.xmoney.top/auth/register?code=QKu7#tt) 
 #### 最近页面打开可能有点儿慢，订阅目前没受影响
 * **特点**：稳定，高速，节点非常多，全球100+高速节点；缺点：略贵，给急需使用机场的朋友推荐的一个应急选项
 * **价格**：20元/月/100G，39元/月/200G，10人共享套餐，1人独享原生IP家宽套餐。
