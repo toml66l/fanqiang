@@ -1,8 +1,6 @@
 # 自用最新稳定机场推荐
 ### 最后检查日期：2026.11.13
 
-#### 项目入口：[入口](https://github.com/toml66l/fanqiang) &ensp; [翻墙扫盲](https://ladderer.win/)
-
 ## 一、下面是各个机场的详细介绍和注册地址
 
 > ### 📌 以下三个均是本人正在使用的机场，各有特点，推荐给大家按各自需求选择，特点简介
@@ -27,7 +25,7 @@
 * **用法**：网站内有详细使用方法。三网优化，速度更快更稳
 
 🚀 [v2free1（节点多）](https://w1.soxo.top/auth/register?code=QKu7#tt) &ensp; [v2free2（节点多）](https://w2.xmoney.top/auth/register?code=QKu7#tt) &ensp; [v2free3（节点多）](https://w1.xmoney.top/auth/register?code=QKu7#tt)  &ensp; [v2free4（节点多）](https://cdn.xmoney.top/auth/register?code=QKu7#tt) 
-#### 最近页面打开可能有点儿慢，订阅目前没受影响
+#### 一个打不开就试试别的
 * **特点**：稳定，高速，节点非常多，全球100+高速节点；缺点：略贵，给急需使用机场的朋友推荐的一个应急选项
 * **价格**：20元/月/100G，39元/月/200G，10人共享套餐，1人独享原生IP家宽套餐。
 * **支持**：全平台客户端支持，Vless / Hysteria2 /AnyTLS 协议，解锁 ChatGPT 及各国 Netflix
