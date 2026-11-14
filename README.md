@@ -34,4 +34,4 @@
 
 
 
-#### 友链：[入口1](https://github.com/hm4reggggg/jichang)
+#### 友链：[入口1](https://github.com/hm4reggggg/jichang),[入口2](https://github.com/giantlucy/latest_jichang)
